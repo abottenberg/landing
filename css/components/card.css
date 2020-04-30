@@ -1,0 +1,17 @@
+.how-it-works-card {
+  width: 250px;
+  height: 300px;
+  box-shadow: 0 0 6px rgba(50, 50, 50, 0.3);
+  text-align: center;
+}
+
+.how-it-works-card-image {
+  height: 40%;
+  margin: auto;
+  padding: 15px;
+}
+
+.p {
+  font-size: 16px;
+  color: rgba(255, 255, 255, 0.3)
+}

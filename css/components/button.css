@@ -1,0 +1,12 @@
+.btn-apply-now {
+  color: white;
+  background-color: #18F2B2;
+  border-radius: 40px;
+  padding: 14px 30px;
+  transition: 0.3s;
+  width: 85px;
+}
+
+.btn-medium:hover {
+  background-color: #13C88E;
+}
